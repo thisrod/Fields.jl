@@ -1,0 +1,4 @@
+name = "Fields"
+uuid = "6cf0ef30-e59a-11e9-151b-1bdcba82a9a0"
+authors = ["Rodney Polkinghorne <rpolkinghorne@swin.edu.au>"]
+version = "0.1.0"
